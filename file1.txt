@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 important changes
-=======
 hallo
->>>>>>> d01b379520ca3ffd1b5b299a5ebc6766397f5512
